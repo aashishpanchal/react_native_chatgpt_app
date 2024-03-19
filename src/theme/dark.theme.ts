@@ -5,7 +5,7 @@ import {DarkTheme as NativeDarkTheme} from '@react-navigation/native';
 export const DarkTheme = deepmerge(NativeDarkTheme, {
   dark: true,
   colors: {
-    text: '#e6e7e7',
+    text: '#fff',
     border: '#2d2d2d',
     primary: '#252524',
     background: '#0d0d0d',
